@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Mighty841-rescue)(type Legacy)(uri ${KIPRJMOD}/Mighty841-rescue.lib)(options "")(descr "")(disabled))
+  (lib (name Mighty841-cache)(type Legacy)(uri /home/anthony/work/pcb/Mighty841/hardware/Mighty841/Mighty841-cache.lib)(options "")(descr "")(disabled))
+)

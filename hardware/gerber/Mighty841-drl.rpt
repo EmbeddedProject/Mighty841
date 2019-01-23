@@ -1,0 +1,27 @@
+Drill report for /home/anthony/work/pcb/Mighty841/hardware/Mighty841/Mighty841.kicad_pcb
+Created on mer. 23 janv. 2019 20:48:07 CET
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'Mighty841-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,40mm  0,016"  (8 holes)
+    T2  0,80mm  0,031"  (4 holes)
+    T3  1,00mm  0,039"  (28 holes)
+    T4  1,02mm  0,040"  (6 holes)
+    T5  1,10mm  0,043"  (4 holes)
+    T6  2,70mm  0,106"  (4 holes)
+
+    Total plated holes count 54
+
+
+Drill file 'Mighty841-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
